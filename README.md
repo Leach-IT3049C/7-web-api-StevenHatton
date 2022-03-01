@@ -29,4 +29,5 @@ Learning this new API was sweet and it was a lot of fun to look at other APIs.
 Around 2 hours I believe
 
 ## Group list, if applicable:
-Steven Hatton(Just me!)
+Steven Hatton(me)
+Perry McCarthy
